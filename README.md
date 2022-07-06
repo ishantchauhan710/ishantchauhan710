@@ -58,11 +58,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishantchauhan710&count_private=true&show_icons=true&include_all_commits=true" alt="ishantchauhan710 | Stats"/>
 </p>
 
-## Contributions
+## Contributions :chart_with_upwards_trend:
 <img src="https://activity-graph.herokuapp.com/graph?username=ishantchauhan710&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>
 
 
-## Contact :mailbox_with_mail::chart_with_upwards_trend:
+## Contact :mailbox_with_mail:
 <p align="left">
 <a href="https://linkedin.com/in/ishantchauhan710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishantchauhan710" height="30" width="40" /></a>
 <a href="https://instagram.com/theishantchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theishantchauhan" height="30" width="40" /></a>
