@@ -1,5 +1,5 @@
 # Hi, I'm Ishant <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-## A passionate Android and Full Stack Web Developer from India 
+### A passionate Android and Full Stack Web Developer from India 
 
 - 💬 Ask me anything related to **android and web development**
 
@@ -51,7 +51,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## Github Statistics 📈
+## Github Statistics :bar_chart:
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantchauhan710" />
 <br>
@@ -59,10 +59,10 @@
 </p>
 
 ## Contributions
-<img src="https://activity-graph.herokuapp.com/graph?username=ishantchauhan710&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ishantchauhan710&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>
 
 
-## Contact
+## Contact :mailbox_with_mail::chart_with_upwards_trend:
 <p align="left">
 <a href="https://linkedin.com/in/ishantchauhan710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishantchauhan710" height="30" width="40" /></a>
 <a href="https://instagram.com/theishantchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theishantchauhan" height="30" width="40" /></a>
