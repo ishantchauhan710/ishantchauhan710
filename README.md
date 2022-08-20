@@ -7,9 +7,6 @@
 
 - 📫 To reach me, just drop a mail at **developerishant710@gmail.com**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishantchauhan710&theme=highcontrast" alt="ishantchauhan710" />
-
-
 
 ### Programming Languages
 
@@ -55,7 +52,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantchauhan710" />
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishantchauhan710&count_private=false&show_icons=true&include_all_commits=true" alt="ishantchauhan710 | Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishantchauhan710&count_private=true&show_icons=true&include_all_commits=true" alt="ishantchauhan710 | Stats"/>
 </p>
 
 ## Contributions :chart_with_upwards_trend:
