@@ -7,6 +7,7 @@
 
 - 📫 To reach me, just drop a mail at **developerishant710@gmail.com**
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishantchauhan710&theme=highcontrast" alt="ishantchauhan710" />
 
 ### Programming Languages
 
