@@ -57,7 +57,7 @@
 </p>
 
 ## Contributions :chart_with_upwards_trend:
-<img src="https://activity-graph.herokuapp.com/graph?username=ishantchauhan710&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishantchauhan710&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>
 
 
 ## Contact :mailbox_with_mail:
